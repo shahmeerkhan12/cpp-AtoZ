@@ -1,3 +1,7 @@
 *.Application
 *.json
 *.exe
+*.js
+*.ts
+.internship Japan test
+.vscode
