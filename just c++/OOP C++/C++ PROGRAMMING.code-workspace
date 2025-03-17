@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../coding easy level"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.dart": "dart",
+			"*.tcc": "cpp",
+			"random": "cpp",
+			"limits": "cpp",
+			"type_traits": "cpp",
+			"new": "cpp",
+			"iostream": "cpp",
+			"ostream": "cpp"
+		}
+	}
+}
