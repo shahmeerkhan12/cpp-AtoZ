@@ -1,0 +1,43 @@
+Student Name: Lisa Miller
+Student ID: 890239
+Number of courses enrolled: 4
+
+Course No Course Name   Credits Grade 
+CSC478     ComputerSci      3      A
+HIS356     History          3      A
+MTH345     Mathematics      4      A
+PHY357     Physics          3      B
+
+Total number of credit hours: 13
+Mid-Semester GPA: 3.77
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Student Name: Harry Potter
+Student ID: 890240
+Number of courses enrolled: 4
+
+Course No Course Name   Credits Grade 
+CSC478     ComputerSci      3    ***
+HIS356     History          3    ***
+MTH345     Mathematics      4    ***
+PHY357     Physics          3    ***
+
+Total number of credit hours: 13
+*** Grades are being held for not paying the tuition. ***
+Amount Due: $4485.00
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+Student Name: Ben Dunk
+Student ID: 890241
+Number of courses enrolled: 4
+
+Course No Course Name   Credits Grade 
+CSC478     ComputerSci      3      B
+HIS356     History          3      A
+MTH345     Mathematics      4      A
+PHY357     Physics          3      A
+
+Total number of credit hours: 13
+Mid-Semester GPA: 3.77
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+

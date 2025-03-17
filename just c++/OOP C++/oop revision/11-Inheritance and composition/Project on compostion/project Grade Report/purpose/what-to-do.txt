@@ -1,0 +1,43 @@
+the program will read from file, the input will be some data related to students. For example:
+
+inputData Format
+
+No.of.students    tuition rate
+student_name   sudentID    tuition_paid   no_of_courses
+course_name    courseID    credit_hours   Grade
+.
+.
+.
+student_name sudentID tuition_paid no_of_courses
+course_name courseID credit_hours Grade
+.
+.
+.
+
+A sample input will look like the following:
+
+3 245
+Charles Baccatta 489754 Y 4
+Maths MTH430 3 A
+Physics PHY431 3 B
+Chemistry CHEM432 3 A
+.
+.
+.
+
+Next is to process data and then output in the following format:
+
+Student Name: Lisa Miller
+Student ID: 890238
+Number of courses enrolled: 4
+
+CourseNo CourseName Credits Grade
+CSC478 ComputerSci 3 B
+HIS356 History 3 A
+MTH345 Mathematics 4 A
+PHY357 Physics 3 B
+
+Total number of credits: 13
+Mid-Semester GPA: 3.54
+
+

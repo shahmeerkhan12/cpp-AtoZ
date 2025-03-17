@@ -1,0 +1,36 @@
+step 1:
+know the components:
+   course
+   student
+   
+1. course is defined by the following the attributes:
+
+i. course name
+ii. course id
+iii. course credit hours
+
+operations on the course type object:
+
+1.set the course information
+2.print the course information
+3.show the credit hours
+4. show the course id
+
+2. student object have the following attributes
+
+i.   first name and last name
+ii.  studentID
+iii. number of courses in which enrolled
+iv.  courses in which enrolled 
+v.   a grade for each course
+vi.  is tuition paid
+
+operations on a student object type
+
+1. set the student information
+2. print the student information
+3. calculate the number credit hours taken.
+
+
+
+
